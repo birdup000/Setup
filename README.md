@@ -1,4 +1,4 @@
-# Setup
+# Setup (In Development)
 This repo is inspired from [JoshXT's Repo](https://github.com/Josh-XT/Setup).
 
 # Why this script?
