@@ -15,4 +15,4 @@ sudo sh Script.sh
 This script is meticulously crafted for seamless reimaging or recovery, and it will continuously evolve to adapt to my unique needs. It will remain a dynamic asset, adapting to both development changes and the expanding scope of my daily workflow.
 
 # What does this script install?
-As of now the script installs the browser Floorp (A personal favorite), and the script also installs the latest drivers from Nvidia (Version 545 Latest), installs Steam for gaming.
+As of now the script installs the browser Floorp (A personal favorite), and the script also installs the latest drivers from Nvidia (Version 545 Latest), installs Steam for gaming,Raspberry Pi Imager for Imaging SD Cards for Raspberry Pi Single Board Computers
