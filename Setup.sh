@@ -34,3 +34,7 @@ cd installation_files
 wget https://cdn.akamai.steamstatic.com/client/installer/steam.deb
 sudo dpkg -i steam.deb
 
+
+# Install Raspberry Pi Imager
+clear
+sudo apt install rpi-imager
