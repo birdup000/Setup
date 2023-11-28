@@ -24,3 +24,13 @@ sudo apt update
 # Install the latest Nvidia Drivers
 clear
 sudo apt install nvidia-driver-545
+
+
+# Install Steam
+cd ~
+cd Downloads
+mkdir installation_files
+cd installation_files
+wget https://cdn.akamai.steamstatic.com/client/installer/steam.deb
+sudo dpkg -i steam.deb
+
