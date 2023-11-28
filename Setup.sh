@@ -34,6 +34,14 @@ cd installation_files
 wget https://cdn.akamai.steamstatic.com/client/installer/steam.deb
 sudo dpkg -i steam.deb
 
+# Install Scrcpy dependencies and Scrcpy
+sudo apt install ffmpeg libsdl2-2.0-0 adb wget \
+                 gcc git pkg-config meson ninja-build libsdl2-dev \
+                 libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev \
+                 libswresample-dev libusb-1.0-0 libusb-1.0-0-dev
+
+sudo apt install scrcpy
+
 
 # Install Raspberry Pi Imager
 clear
