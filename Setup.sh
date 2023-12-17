@@ -62,7 +62,10 @@ sudo apt install ffmpeg libsdl2-2.0-0 adb wget \
                 libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev \
                 libswresample-dev libusb-1.0-0 libusb-1.0-0-dev
 
-sudo apt install scrcpy
+# Install from source instead of packaged version stated in Scrcpy repo readme 
+git clone https://github.com/Genymobile/scrcpy
+cd scrcpy
+./install_release.sh
 
 # Install Raspberry Pi Imager
 clear
