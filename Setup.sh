@@ -75,4 +75,4 @@ clear
 sudo apt install rpi-imager
 
 # Final message
-echo "All desired software packages have been installed!"
+echo "All desired software packages have been installed! Please Reboot your system to ensure everything has been sucessfully installed!"
