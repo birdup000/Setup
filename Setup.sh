@@ -21,6 +21,9 @@ sudo apt update
 # Install floorp
 sudo apt install floorp
 
+# Install VSCode
+sudo apt install code
+
 # Update the package index again
 clear
 sudo apt update
