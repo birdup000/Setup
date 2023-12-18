@@ -12,7 +12,7 @@ Arch: x86_64
 # What does this script install (not in install order)?
 1.Browser of choice Floorp from the offical repo
 <br>
-2.Latest drivers Nvidia (Version 545 Latest) Ubuntu Repo Proprietary GPU Drivers
+2.Latest drivers Nvidia (Version 545 Latest) Ubuntu Repo Proprietary GPU Drivers (Requires Reboot)
 <br>
 3.Installs Steam (deb from Akamai cdn offical) for gaming
 <br>
