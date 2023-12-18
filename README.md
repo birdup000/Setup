@@ -21,6 +21,8 @@ Arch: x86_64
 5.Installs Scrcpy (from source) for android development
 <br>
 6.Realtek Wifi Driver rtl8852bu (optional)
+<br>
+7.Installs VSCode
 
 # How do I run the script?
 You'll need to run these commands
