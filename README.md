@@ -20,7 +20,7 @@ Arch: x86_64
 <br>
 5.Installs Scrcpy (from source) for android development
 <br>
-6.Realtek Wifi Driver rtl8852bu (optional)
+6.Realtek Wifi Driver rtl8852bu (optional and requires reboot to function)
 <br>
 7.Installs VSCode
 
