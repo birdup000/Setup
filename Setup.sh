@@ -51,6 +51,12 @@ if [[ $install_wifi =~ ^[Yy]$ ]]; then
   echo "WiFi driver installation completed!"
 fi
 
+
+# Install OpenShot Video Editor
+sudo add-apt-repository ppa:openshot.developers/ppa
+sudo apt update
+sudo apt install openshot-qt python3-openshot
+
 # Install Steam
 cd ~
 cd Downloads
