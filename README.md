@@ -23,6 +23,8 @@ Arch: x86_64
 6.Realtek Wifi Driver rtl8852bu (optional and requires reboot to function)
 <br>
 7.Installs VSCode
+<br>
+8.Installs OpenShot Video Editor
 
 # How do I run the script?
 You'll need to run these commands
