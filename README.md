@@ -19,7 +19,7 @@ chmod +x Script.sh
 sudo sh Script.sh
 ```
 
-### Installed Software (Note some Arch based or Arch versions aren't offical so do keep in mind that...)
+### Installed Software (Note some Arch based or Arch versions aren't official so do keep in mind that...)
 
 1. **Browser of Choice - Floorp**
    - Installed from the official repository.
